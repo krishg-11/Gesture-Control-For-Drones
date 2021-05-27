@@ -13,5 +13,5 @@
     2. Ensure both the DJI Smart Controller and the laptop running the Python script are on the same WiFi
     3. You may have to adjust the path for where the apps should access their respective SDKs (for both the Python app and the Android app). This will be a String inside the code that you will change.
     4. You may have to change the IP address when creating the socket between the Smart Controller and laptop. Make sure to double check the IP address of both your laptop and Smart Controller.
-    5. For more updated code and details, you can access the GitHub repo at 
+    5. For more updated code and details, you can access the GitHub repo at https://github.com/krishg-11/Gesture-Control-For-Drones
 

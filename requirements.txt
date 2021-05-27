@@ -1,1 +1,1 @@
-myo-python               1.0.4
+myo-python==1.0.4
